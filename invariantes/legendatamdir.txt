@@ -1,0 +1,4 @@
+
+----------------------------
+
+OBSERVAÇÃO: Os backups de responsabilidade da REMO são: forçantes do HYCOM (GFS e ICON) e outputs do HYCOM.
